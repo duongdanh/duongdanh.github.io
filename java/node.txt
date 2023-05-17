@@ -1,0 +1,9 @@
+public: cộng đồng
+private: riêng tư
+default
+getter: lấy dữ liệu ra
+setter: cho dữ liệ vào
+
+class
+thuộc tính 
+p
